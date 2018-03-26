@@ -1,0 +1,19 @@
+Punkte
+======
+
+Um simples e descontraído aplicativo de Planning Poker!
+-------------------------------------------------------
+
+CHANGELOG:
+==========
+
+VERSÃO 1.1:
+- Alterado layout da janela principal do programa.
+- Adicionado card com valor 377.
+
+#-------------------------------------------------------------------------------------------------------------------
+
+VERSÃO 1.0:
+- Versão inicial do aplicativo.
+
+#-------------------------------------------------------------------------------------------------------------------
