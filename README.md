@@ -7,8 +7,10 @@
 
 ###### Durante o planning, basta escolher o cartão com a pontuação ou ação desejada.
 
-<img src="https://i.imgur.com/oUeRnRF.png" />
+<img src="https://i.imgur.com/nvbVJTw.png" />
 <img src="https://i.imgur.com/GCb2yF8.png" />
+
+## [Verifique o CHANGELOG.txt para maiores informações sobre novas versões!](https://raw.github.com/Wolfterro/Punkte/master/CHANGELOG.txt)
 
 ### Idiomas Disponíveis:
  - Português Brasileiro (Padrão)
@@ -20,6 +22,6 @@
     cd Punkte/
 
 ##### Caso queira baixar o aplicativo já compilado, em formato .apk, use o link abaixo:
-#### ***Release:*** https://github.com/Wolfterro/Punkte/releases/tag/v1.0-Release
+## ***Release:*** https://github.com/Wolfterro/Punkte/releases/tag/v1.1-Release
 
 ###### Caso não possua o git e queira baixar o repositório, baixe através deste [Link](https://github.com/Wolfterro/Punkte/archive/master.zip) ou clique em "Clone or Download", no topo da página.
