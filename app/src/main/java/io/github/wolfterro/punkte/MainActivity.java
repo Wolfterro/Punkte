@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button button89;
     private Button button144;
     private Button button233;
+    private Button button377;
     private Button buttonInfinite;
     private Button buttonQuestionMark;
     private ImageButton buttonCoffee;
@@ -73,6 +74,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button89 = (Button)findViewById(R.id.button_89);
         button144 = (Button)findViewById(R.id.button_144);
         button233 = (Button)findViewById(R.id.button_233);
+        button377 = (Button)findViewById(R.id.button_377);
         buttonInfinite = (Button)findViewById(R.id.button_infinite);
         buttonQuestionMark = (Button)findViewById(R.id.button_question_mark);
         buttonCoffee = (ImageButton)findViewById(R.id.imageButton_coffee);
@@ -94,6 +96,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button89.setOnClickListener(this);
         button144.setOnClickListener(this);
         button233.setOnClickListener(this);
+        button377.setOnClickListener(this);
         buttonInfinite.setOnClickListener(this);
         buttonQuestionMark.setOnClickListener(this);
         buttonCoffee.setOnClickListener(this);
@@ -161,6 +164,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.button_233:
                 intent = new Intent(MainActivity.this, CharacterActivity.class);
                 intent.putExtra(intentKey, getString(R.string.two_hundred_thirty_three));
+                break;
+            case R.id.button_377:
+                intent = new Intent(MainActivity.this, CharacterActivity.class);
+                intent.putExtra(intentKey, getString(R.string.three_hundred_seventy_seven));
                 break;
             case R.id.button_infinite:
                 intent = new Intent(MainActivity.this, CharacterActivity.class);
